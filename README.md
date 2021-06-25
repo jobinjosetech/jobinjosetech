@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Full Stack WebDevelopment & Android App Development
 - 💞️ I’m looking to collaborate on Workaholic Peoples
-- 📫 You can reach me vis https://jobinjose.in or jobinjose.in@gmail.com
+- 📫 You can reach me via https://jobinjose.in or jobinjose.in@gmail.com
 
 <!---
 jobinjosetech/jobinjosetech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
